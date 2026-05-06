@@ -1,0 +1,13 @@
+# My GitHub Repository
+#This is my EDS Lab Assignment 2
+
+## Name: Sneha Meshram 
+### Contents:
+- CISCO Certificate
+- EDS Laboratory Assignments
+- Preskilet Video
+
+### Purpose:
+This repository contains my academic documents and projects.
+
+Thank you!
